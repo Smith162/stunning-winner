@@ -1,0 +1,39 @@
+body {
+font-family: 'Ubuntu', sans-serif;
+fontsize:20px;
+background:#597B86;
+}
+
+.headline{
+background:#F1E0BC; 
+height:130px; 
+width:1235px;
+margin:30px 30px 0px 30px;
+padding:10px 0px 5px 0px;
+fontsize:20px;
+}
+
+#flower{height: auto; width=300px;
+margin:30px;
+position:centre;
+}
+
+.link{
+background:#F1E0BC; 
+height:300px; 
+width:1100px;
+margin:0px;
+padding:10px 40px 10px 80px;
+position:absolute;
+top:590px;
+left:60px;
+fontsize:20px;
+}
+
+.Bio{
+background:#96A293;
+font-family: 'Ubuntu', sans-serif;
+fontsize:20px;
+padding:5px 10px 10px 10px;
+margin:0px 30px 0px 30px;
+}
