@@ -9,7 +9,7 @@ background:#F1E0BC;
 height:130px; 
 width:1235px;
 margin:30px 30px 0px 30px;
-padding:10px 0px 5px 0px;
+padding:10px 0px 5px 10px;
 fontsize:20px;
 }
 
@@ -36,4 +36,6 @@ font-family: 'Ubuntu', sans-serif;
 fontsize:20px;
 padding:5px 10px 10px 10px;
 margin:0px 30px 0px 30px;
+height: 130px;
+width: 1235px; 
 }
